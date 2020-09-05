@@ -1,7 +1,7 @@
-# VisCoT Telegram Chat Bot 
+# Chris Telegram Chat Bot 
 
 Working bot
-Check __[VisCoT](https://t.me/VisCoTbot)__
+Check __[CHRIS](https://tX.me/)__
 
 Symptom Checker and Global data Provider
 ---
